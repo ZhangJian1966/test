@@ -65,7 +65,7 @@ git commit -m "提交描述"   暂存区 -> 仓库
 Git远程仓库
      ①工作区 -> 暂存区
      ②暂存区 -> Git Repository
-     ③Git 仓库 -> 服务器
+     ③Git 仓库 -> 服务器    git push
       git clone 仓库地址  下载仓库文件
 
       
