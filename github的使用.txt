@@ -1,0 +1,32 @@
+Repository 仓库
+	用来存放项目代码，每个项目对应一个仓库
+Star 收藏
+	收藏项目的人数
+Fork 复制克隆的项目
+	forked from ....
+
+Pull Request 发起请求
+	Fork方 添加代码后  点击Pull Request请求  源代码方 同意后更新
+Watch 关注
+	关注项目，项目更新可以接受通知
+lssue 事务卡片
+	发现Bug，但目前没有成型代码
+
+Github 主页
+	左侧：显示动态
+	右侧：显示git库
+仓库主页
+	项目信息：项目代码；版本；
+个人主页
+
+
+shadowsocks
+
+
+创建仓库
+	仓库名称
+	项目描述
+	在仓库下创建reademe文件来详细描绘项目
+
+      新建文件
+
